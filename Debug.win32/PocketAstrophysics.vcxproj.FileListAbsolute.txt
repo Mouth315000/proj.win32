@@ -1,0 +1,2 @@
+D:\projects\PocketAstrophysics\PocketAstrophysics\proj.win32\Debug.win32\PocketAstrophysics.exe
+D:\projects\PocketAstrophysics\PocketAstrophysics\proj.win32\Debug.win32\PocketAstrophysics.pdb
